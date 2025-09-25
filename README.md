@@ -25,8 +25,8 @@ How to find patterns like errors or frequent visitors
 LogAnalyzerProject/
 │── log_analyzer.py   # The Python script
 │── access.log        # Example log file
-│── README.md         # This file (documentation)```
-
+│── README.md         # This file (documentation)
+```
 
 ---
 
@@ -36,9 +36,10 @@ Make sure you have Python 3 installed.
 
 In LogAnalyzerProject folder, Create files called nginx_access.log and log_analyzer.py
 
-Run the script from the terminal:
+Run the script in the terminal:
 
 ```python log_analyzer.py```
+
 
 
 
