@@ -27,6 +27,7 @@ LogAnalyzerProject/
 │── access.log        # Example log file
 │── README.md         # This file (documentation)```
 
+
 ---
 
 Open the project in VS Code.
@@ -38,6 +39,7 @@ In LogAnalyzerProject folder, Create files called nginx_access.log and log_analy
 Run the script from the terminal:
 
 ```python log_analyzer.py```
+
 
 
 
