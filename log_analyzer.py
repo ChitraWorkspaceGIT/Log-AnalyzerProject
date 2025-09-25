@@ -1,4 +1,4 @@
-# log_analyzer.py
+# LogAnalyzerProject
 
 from collections import Counter
 
